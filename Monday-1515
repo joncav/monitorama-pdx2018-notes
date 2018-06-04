@@ -1,5 +1,57 @@
 # Observability: the Hard Parts
 ## Peter Bourgon
+## From Fastly
+
+### Goals
+Is the system healthy?
+If not why not?
+
+- Run Prometheus
+- Duplicate instrumentation that works
+- Prometheus exporters
+- Curate dashboards
+
+### Rollout
+- Inventory all services
+
+The grind
+- Pair up with responsible engineer
+- Learn how the Prometheus model works
+- Build and maintain Empathy
+
+1. Instrument
+ - Hour of pare programming
+ - Mistake trying to layout process up front
+ - Better: letting documentation emerge naturally
+ - Documentation portal extremely helpful
+2. Wire-up
+ - Deploy Prometheus
+ - Plumb service into Prometheus
+ - Heterogeneous deployments made difficult
+
+Code: Engineering autonomy
+- Orgs must balance local vs global optimization
+- Tech autonomy is a form of tech debt
+
+Coda: Empathy
+- de-learning helplessness
+- understanding problems/concerns others face
+
+### The politics of ownership
+- Some services are nebulously owned
+- Must have C level buy in
+
+Tricky bits
+- Empathy vs learned helplessness 
+- Resistance before "production-ready"
+- Socializing infrastructural knowledge 
+- Alert manager
+
+### Successful
+- Team of two is a good mix
+- Consulting model works, real change requires connection
+- Prometheus, simple, stable and adaptable
+- GitOps-style of resource management
 
 # Warning: This Talk Contains Content Known to the State of California to Reduce Alert Fatigue
 ## Aditya Mukerjee
