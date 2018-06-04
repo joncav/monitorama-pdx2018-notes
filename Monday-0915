@@ -35,6 +35,7 @@
  - Growth Challenges, knowldge gaps, more meetings
  - Knowledge silos
 
+<<<<<<< master
 ### Phases of mentorship
 1. Bredth
 * get up to speed on what we do
@@ -48,6 +49,36 @@
 - Consult with other teams, communicate, this helps them
 - Pose the problem your trying to solve
 - Point people to insightful questions 
+=======
+###Stats:
+* 25min data points per min
+* 30tb per day, splunk
+* Beginning datalake 
+
+1. Growth
+* internal and external growth, this is what they experienced and are also applicable to self
+* Growth Challenges, knowldge gaps, more meetings
+* Knowledge silos
+
+Phases of mentorship
+2. Bredth
+* get up to speed on what we do
+3. Depth
+4. ??
+
+* Teaching others
+* Retrospectives allow to discuss, give feedback quickly
+* A mentors social network
+* Make intros, continue making connections for your trainees, do it soon
+
+Consulting: Metrics as a services
+* Why: Specalized field, Monitorama is awesome for learning
+
+Make the right tradeoffs
+* Consult with other teams, communicate, this helps them
+* Pose the problem your trying to solve
+* Point people to insightful questions 
+>>>>>>> origin/master
 
 Best Practice
 - Listen attentively, intentionally
