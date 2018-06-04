@@ -111,3 +111,30 @@ Rule of three
 1. Simple
 2. Use visuals
 3. Remember the power of 3
+
+# Principia SLOdica - A Treatise on the Metrology of Service Level Objectives
+## By Jamie Wilkinson
+
+- Measure on bad experience
+- Error budget, is the acceptable level of errors, reasonable tolerance
+
+- SLI - Indicator: A measurement
+- SLO - Objective: A goal
+- SLA - Agreement
+
+- Know what your reasonable tolerance is, within your SLA
+- SLO would be how many requests are successful and if this is within tolerance
+
+### Monitoring SLO
+TSDB
+Measure over time
+Report if reaches over threshold
+All response codes in the last 10s / number of requests (if yes, then error)
+
+### Burn rate
+Disk space, consumption rate example
+Burn rate should be the measurement, not just static percent, or when disk is full
+Burn rate math, calculate what you are capable of over a time period, and notice on higher
+
+Showed demo of Prometheus
+
