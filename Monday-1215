@@ -30,3 +30,12 @@ Monitoring is not a substitute for debugging!
 2. SLO is defined by you, customers, systems
 3. SLO implies error budget, informs engineering tolerance
 4. Page only SLO risk, because that's what matters
+
+# On-call Simulator! - Building an interactive game for teaching incident response
+## By Franka Schmidt, @franschm
+## From MapBox
+
+### Games and incident response
+
+
+* Recommended: Rise of the video game zinesters
