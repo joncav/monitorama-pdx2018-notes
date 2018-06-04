@@ -1,6 +1,6 @@
 # Observability: the Hard Parts
-## Peter Bourgon
-## From Fastly
+## Peter Bourgon, @peterbourgon
+## From Fastly, 120 engineers
 
 ### Goals
 Is the system healthy?
@@ -53,8 +53,19 @@ Tricky bits
 - Prometheus, simple, stable and adaptable
 - GitOps-style of resource management
 
+### Questions:
+1. Size of company
+2. How did this project / putting people on call correspond?
+ - Transition, there were already on-call engineers, could be increasing
+3. How did you get engineers to maintain the systems after leaving teams?
+ - Hard question: The ideal is systems should be owned. Ownership is the one or two people who wrote it. The on-call rotation could be an indicator of who should own it. Have a team who receives systems in maintenances mode, as lifecycle and they manage it and hand it back off.
+4. What was the handoff process like, consulting to production.
+ - Leaving an embed, on the intro email, introducing themselves and about observability story when I leave then the system belongs to you. Made clear at the beginning. Consistent communication is the key.
+
 # Warning: This Talk Contains Content Known to the State of California to Reduce Alert Fatigue
 ## Aditya Mukerjee
+
+
 
 # Monitory Report: I Have Seen Your Observability Future. You Can Choose a Better One.
 ## Ian Bennett
