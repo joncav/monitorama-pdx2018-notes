@@ -64,6 +64,23 @@ Tricky bits
 
 # Warning: This Talk Contains Content Known to the State of California to Reduce Alert Fatigue
 ## Aditya Mukerjee
+## From Stripe
+
+Alert Fatigue
+Number of alerts train you to ignore them
+
+Health Care Industry
+72-99% of clinical alerts are false positive
+Patterns of alerts contribute disproportionately to fatigue
+
+Four steps to reducing alert fatigue: STAT
+1. Supported
+ - Alerting system includes people who respond to alerts, are they supported?
+ - The person who responds to has the right to make the changes
+2. Trustworthy
+3. Actionable
+4. Triaged
+
 
 
 
