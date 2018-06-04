@@ -78,9 +78,20 @@ Four steps to reducing alert fatigue: STAT
  - Alerting system includes people who respond to alerts, are they supported?
  - The person who responds to has the right to make the changes
 2. Trustworthy
+ - Consider the expected changes (model it)
+ - Thresholds can be adjusted
 3. Actionable
+ - One decision required to respond
+ - Alerts difficult to action get ignored
+ - Decision tree of how to respond to alerts
+ - If it's unclear who takes action, it will be ignored
 4. Triaged
+ - Alert type should reflect urgency
+ - Urgency of alerts can change
+ - Commonly understood tiers
+ - Periodic re-evaluation
 
+Don't just leverage and maximize the trust they have (grade, system analysis and outcomes)
 
 
 
