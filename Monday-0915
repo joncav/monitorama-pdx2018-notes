@@ -136,5 +136,12 @@ TSDB
 - Burn rate should be the measurement, not just static percent, or when disk is full
 - Burn rate math, calculate what you are capable of over a time period, and notice on higher
 
-Showed demo of Prometheus
+Showed demo of Prometheus, didn't work :(
+
+Monitoring is not a substitute for debugging!
+
+1. Symptom based alerts are good for your health
+2. SLO is defined by you, customers, systems
+3. SLO implies error budget, informs engineering tolerance
+4. Page only SLO risk, because that's what matters
 
