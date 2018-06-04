@@ -1,84 +1,83 @@
-#Optimized for Learning
-##By Logan McDonald, @loganmeetsworld
+# Optimized for Learning
+## By Logan McDonald, @loganmeetsworld
 
-1. Preparation: 
-* Problem solving is easier with constraints
-* Dickerson Hierarchy, in SRE. Scoping out the path
+1. Preparation:
+ - Problem solving is easier with constraints
+ - Dickerson Hierarchy, in SRE. Scoping out the path
 2. Gaining knowledge:
-* Storing and linking long term memory is mandatory 
-* Low stakes testing
-* If you find something you don’t know, write down and then write question. Don’t flip until you know
-* To learn, retrieve. To learn, struggle
-* Sebastian Leitner, (Book Title: so learnt man Lerner) - three boxes, iterate through
-* Memory palaces
+ - Storing and linking long term memory is mandatory 
+ - Low stakes testing
+ - If you find something you don’t know, write down and then write question. Don’t flip until you know
+ - To learn, retrieve. To learn, struggle
+ - Sebastian Leitner, (Book Title: so learnt man Lerner), three boxes, iterate through
+ - Memory palaces
 3. Mental models:
-* Find a mascot, the gobi
-* Create mental models, so that we can survive problems 
-* Observability, reflection, practice active reflection will level you up faster
-* Incident reviews for her helped ask questions
+ - Find a mascot, the gobi
+ - Create mental models, so that we can survive problems 
+ - Observability, reflection, practice active reflection will level you up faster
+ - Incident reviews for her helped ask questions
 4. Learning together: 
-* 'symmathesy, sharing what your team is doing with their queries, transparency
-* Emphasizing on natural intelligence doesn’t have rewards, but pointing out the hard work/effort
-* Create a safe place, where teams feel like they are solving hard problems together
+ - 'symmathesy, sharing what your team is doing with their queries, transparency
+ - Emphasizing on natural inte
+ lligence doesn’t have rewards, but pointing out the hard work/effort
+ - Create a safe place, where teams feel like they are solving hard problems together
 
+# Mentoring Metrics Engineers: How to Grow and Empower Your Own Monitoring Experts
+## By Zach Musgrave, Angelo Licastro
+ 
+### Stats:
+- 25min data points per min
+- 30tb per day, splunk
+- Beginning datalake 
 
-#Mentoring Metrics Engineers: How to Grow and Empower Your Own Monitoring Experts
-##By Zach Musgrave, Angelo Licastro
+### Growth
+ - internal and external growth, this is what they experienced and are also applicable to self
+ - Growth Challenges, knowldge gaps, more meetings
+ - Knowledge silos
 
-###Stats:
-* 25min data points per min
-* 30tb per day, splunk
-* Beginning datalake 
-
-1. Growth
-* internal and external growth, this is what they experienced and are also applicable to self
-* Growth Challenges, knowldge gaps, more meetings
-* Knowledge silos
-
-Phases of mentorship
+### Phases of mentorship
 1. Bredth
 * get up to speed on what we do
 2. Depth
 3. ??
-Teaching others
-Retrospectives allow to discuss, give feedback quickly
 
-A mentors social network
-Make intros, continue making connections for your trainees, do it soon
+- Retrospectives allow to discuss, give feedback quickly
+- Make intros, continue making connections for your trainees, do it soon
 
-Consulting: Metrics as a services
-Why: Specalized field, Monitorama is awesome for learning
-
-Make the right tradeoffs
-* Consult with other teams, communicate, this helps them
-* Pose the problem your trying to solve
-* Point people to insightful questions 
+### Make the right tradeoffs
+- Consult with other teams, communicate, this helps them
+- Pose the problem your trying to solve
+- Point people to insightful questions 
 
 Best Practice
-* Listen attentively, intentionally
+- Listen attentively, intentionally
 
-#On-call Simulator! - Building an interactive game for teaching incident response
+# On-call Simulator! - Building an interactive game for teaching incident response
 ## By Franka Schmidt @dparzych
 
-Story telling
-Too much info, Helps us remember
-Stories add meaning, add meaning add context, time is constrained
-Stories help us combat the biases, to remember the important we tell ourselves stories
-Not enough memory
-Story has elements, plot, setting, characters, theme, conflict
+### Story telling
+1. Too much info, Helps us remember
+2. Stories add meaning, add meaning add context, time is constrained
+3. Stories help us combat the biases, to remember the important we tell ourselves stories
+4. Not enough memory
+
+*Story has elements, plot, setting, characters, theme, conflict*
+
 We identify with characters we have empathy for
-* Look through others eyes
-* Recognize the emotions of the people you're talking to
-* Make stories exciting and entertaining
+- Look through others eyes
+- Recognize the emotions of the people you're talking to
+- Make stories exciting and entertaining
 KISS method
-* Keep it simple
-* Not for letting people know how much you know
-* Use visuals, but keep them simple
+- Keep it simple
+- Not for letting people know how much you know
+- Use visuals, but keep them simple
+
 Rule of three
-* Many things are set in threes because the brain can easily grasp
-* First digit that allows you to see a pattern
-* Focus on three data points you're trying to convey
-Metrics tell a story
+- Many things are set in threes because the brain can easily grasp
+- First digit that allows you to see a pattern
+- Focus on three data points you're trying to convey
+
+**Metrics tell a story**
 
 1. Simple
 2. Use visuals
