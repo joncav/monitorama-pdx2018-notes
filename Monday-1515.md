@@ -94,6 +94,47 @@ Four steps to reducing alert fatigue: STAT
 Don't just leverage and maximize the trust they have (grade, system analysis and outcomes)
 
 
-
 # Monitory Report: I Have Seen Your Observability Future. You Can Choose a Better One.
-## Ian Bennett
+## Ian Bennett, @enbnt
+## From Twitter
+
+What is twitter?
+ - Every side of the conversation
+
+Thinking of starting observability
+ - What is your companies mission? 
+ - If not monitoring and the likes:
+   - Plan to be true to observability
+   - Have Empathy
+   - Get people out of the tool
+   - Get used to jumping in, support, on-call
+
+Five things that happened, challenges for the 20%
+Query language (DO NOT write your own QL)
+Dashboards and alerts 
+Query and config
+Incomparable concepts
+
+The problem: Aggregate Monitors
+- Monitor definitions are vendor lock-in
+- They are directly tied to your queries
+   - Simplify vocabulary
+- They live longer than your time series dB
+- They change infrequently
+
+Building monitors & alerts
+- Do you know what your notifications look like until you've entered an incident?
+- Do you know what data your given?
+- What is the added stress to our end users?
+- The story here is terrible
+
+Scope
+- Limit the scope of what you plan to migrate
+- Limit the scope of user interaction
+- Drive for feature alignment
+
+Evaluator project OSS, they want to share
+- Adhoc evaluation API
+- Flexible
+
+[Sekhmet project](https://github.com/twitter/sekhmet)
