@@ -64,6 +64,5 @@
 - Things to check which may be related: Useful Cloudwatch graphs/sumo logic queries
 - Tracking: ticket number related to resolution
 
-
-
-
+Can we reduce the dependency on people?
+     
